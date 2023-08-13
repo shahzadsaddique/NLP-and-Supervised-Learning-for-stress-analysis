@@ -28,7 +28,7 @@ git clone https://github.com/shahzadsaddique/NLP-and-Supervised-Learning-for-str
   
 - Our contribution
 
-<img src="https://github.com/shahzadsaddique/NLP-and-Supervised-Learning-for-stress-analysis/blob/main/img/contribution-code.png" width="750" height="200" />
+<img src="https://github.com/shahzadsaddique/NLP-and-Supervised-Learning-for-stress-analysis/blob/main/img/contribution-code.png" />
 
 
 ## Analysis
@@ -56,7 +56,7 @@ In this experiment, we trained the dataset with feature extraction models Word2V
 
 ### Word2Vec (with TF-IDF) Prediction Results After improvement
 
-<img src="https://github.com/shahzadsaddique/NLP-and-Supervised-Learning-for-stress-analysis/blob/main/img/results.png" width="750" height="200" />
+<img src="https://github.com/shahzadsaddique/NLP-and-Supervised-Learning-for-stress-analysis/blob/main/img/results.png"  />
 
 
 For more information, please check the notebook directory to see the analysis results of different models.
